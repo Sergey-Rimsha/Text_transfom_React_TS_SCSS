@@ -42,6 +42,7 @@ const Game = () => {
         <div>
             This my first game:)
             maby laters....
+            <div className="years">Прощай 2021 last commit</div>
             <button onClick={getStartGame} >
                 Start Game
             </button>
